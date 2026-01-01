@@ -1,0 +1,2 @@
+[console_scripts]
+kernicle = kernicle.cli:app
